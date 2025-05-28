@@ -8,46 +8,46 @@ export default {
   entryPointToBrowserMapping: {
   "src/app/pages/about/about-page.component.ts": [
     {
-      "path": "chunk-WW66ZJMY.js",
+      "path": "chunk-TT3ASF3R.js",
       "dynamicImport": false
     }
   ],
   "src/app/pages/pricing/pricing-page.component.ts": [
     {
-      "path": "chunk-2CK474E3.js",
+      "path": "chunk-IDGOY3KF.js",
       "dynamicImport": false
     }
   ],
   "src/app/pages/contact/contact-page.component.ts": [
     {
-      "path": "chunk-V5BSQ2P2.js",
+      "path": "chunk-OCOLQXQY.js",
       "dynamicImport": false
     }
   ],
   "src/app/pages/pokemons/pokemons-page.component.ts": [
     {
-      "path": "chunk-FMEZGBMN.js",
+      "path": "chunk-YSKA2AXN.js",
       "dynamicImport": false
     },
     {
-      "path": "chunk-TGVJXGTO.js",
+      "path": "chunk-2M43QZHH.js",
       "dynamicImport": false
     }
   ],
   "src/app/pages/pokemon/pokemon-page.component.ts": [
     {
-      "path": "chunk-ALKDNDOO.js",
+      "path": "chunk-4AVRKPPP.js",
       "dynamicImport": false
     },
     {
-      "path": "chunk-TGVJXGTO.js",
+      "path": "chunk-2M43QZHH.js",
       "dynamicImport": false
     }
   ]
 },
   assets: {
-    'index.csr.html': {size: 2452, hash: 'a78f0cccfd580fddf07403dc5927485b98fe010a03f293d57dc9fdd120f7b7b8', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
-    'index.server.html': {size: 1109, hash: 'eafafdd001be5963e7fca10ca25e8ec13d63845b32ed66b4eaeda4b951575769', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
+    'index.csr.html': {size: 2452, hash: '01ab8b76c72255054ba508b1e90bec9355c266f3e6ee25439734f0a838745fa5', text: () => import('./assets-chunks/index_csr_html.mjs').then(m => m.default)},
+    'index.server.html': {size: 1109, hash: '03d756145212f0db9183c61ef07bd387673a942a607e06a8ca05355afd6d9629', text: () => import('./assets-chunks/index_server_html.mjs').then(m => m.default)},
     'styles-DNWQ5SPG.css': {size: 8103, hash: '/UoEeKVvHJI', text: () => import('./assets-chunks/styles-DNWQ5SPG_css.mjs').then(m => m.default)}
   },
 };
